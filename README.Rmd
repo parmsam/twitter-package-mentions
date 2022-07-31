@@ -28,3 +28,6 @@ Packages mentioned in RStudio Conference 2022 Tweets:
 ```{r pkgs}
 packageMentions <- "c('{tidymodels}', '{bslib}', '{vetiver}', '{shinyslack}', '{lubridate}', '{ggtrace}', '{ggdist}', '{shinytest2}', '{Tplyr}', '{rtweet}', '{shinyuieditor}', '{leafdown}', '{rmarkdown}', '{patchwork}', '{tidyclust}', '{annotater}', '{gridlayout}', '{spatialsample}', '{geoarrow}', '{sfdep}', '{spdep}', '{nara}', '{eventloop}', '{audio}', '{dm}', '{renv}', '{golem}', '{rhino}', '{dbcooper}', '{ggnewscale}', '{ggplot2}', '{positron}', '{gt}', '{clock}', '{tidyowl}', '{shiny}', '{designer}', '{future}', '{WebR}', '{knitr}', '{httr2}', '{elevators}', '{scales}', '{ggirl}', '{funspotr}', '{workboots}', '{tsbox}', '{constructive}', '{usethis}', '{tidytext}', '{galah}', '{bs4Dash}')"
 ```
+
+## Blog post
+https://medium.com/p/281bccee3536
