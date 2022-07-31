@@ -13,6 +13,13 @@ mentioned in RStudio Conf 2022 hashtagged tweets (which appear to be
 case sensitive with the search API):
 `"#rstudioconf", "#rstudioconf2022", "#rstudioconf22", "#RStudioConf2022", "#RstudioConf2022", "#RstudioConf", "#RStudioConf", "#RStudioConf22"`
 
+### Correction
+
+It looks like Twitter API query terms are evaluated in a
+case-insensitive manner, so I could’ve used a few less terms,
+Documentation link
+[here](https://developer.twitter.com/en/docs/twitter-api/tweets/search/integrate/build-a-query#punctuation).
+
 ## Limitations
 
 Pulls from packages mentioned in tweets with hashtags listed above.
